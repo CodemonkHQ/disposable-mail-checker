@@ -1,0 +1,9 @@
+LICENCE.txt
+README.md
+setup.py
+disposable_mail_checker/__init__.py
+disposable_mail_checker/disposable_domains.json
+disposable_mail_checker.egg-info/PKG-INFO
+disposable_mail_checker.egg-info/SOURCES.txt
+disposable_mail_checker.egg-info/dependency_links.txt
+disposable_mail_checker.egg-info/top_level.txt
